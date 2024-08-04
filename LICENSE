@@ -1,4 +1,4 @@
-Pear eLicense v1.1
+Pear eLicense v1.2
 
 Terminology:
 pastaOS - the OS we made
@@ -30,3 +30,6 @@ First, you have to sign an NDA we send you after contacting the-new-devil@proton
 Clarifications:
 We may need to clarify things. For one, you can indeed use our OS or another product as long as you don't modify our code nor sell it without our consent but you can also add apps and other things that are either under the Pear eLicense without modifying them or add apps that aren't under the Pear eLicense under the terms of the other license.
 Hopefully this clarifies things.
+
+About Jailbreaks:
+We consider jailbreaking software like Sphynx to be unauthorized mods as they technically modify the OS without our consent in a way that isn't adding apps, plugins, and other programs with the official and/or Pear-supported methods.
